@@ -25,3 +25,9 @@ This project implements a **deterministic 2D physics simulation** where multiple
 
 Install required packages:
 **pip install pygame pillow**
+
+How to run?
+Open Command Prompt or Windows Powershell and install the required dependencies.
+Then run **python bouncing_balls.py** to see the magic in action.
+
+**Note: View the craeted final image from afar for best results**
